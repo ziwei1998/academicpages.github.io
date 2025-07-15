@@ -1,11 +1,22 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites testtesttest"
+title: "About"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+I am an Assistant Research Fellow at the Quantum Science Center of Guangdong-Hong Kong-Macao Greater Bay Area. My research interests include quantum circuit optimization and quantum algorithms.
+
+Education
+======
+Ph.D in Institute of Computing Technology, Chinese Academy of Sciences, 2025
+B.S. in University of Chinese Academy of Sciences, 2020
+
+Publications
+======
+
 
 Thistesttesttest is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
 
